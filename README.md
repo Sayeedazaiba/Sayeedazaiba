@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sayeeda Zaiba  
-💡 Aspiring Software Developer | AI/ML Enthusiast | Web Developer, and Software Solutions  
+💡 Aspiring Software Developer | AI/ML Enthusiast | Web Developer | Innovating Software Solutions
 
 ---
 
