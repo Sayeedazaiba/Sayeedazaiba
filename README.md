@@ -15,8 +15,10 @@
 ## 📂 Projects
 SafeTrip – AI-Powered Travel Companion
 AI-based trip planner with recommendations, real-time navigation, and personalized alerts.
+
 Smart Face Attendance System
 Face recognition-based attendance system using Python, OpenCV, and database integration.
+
 AgriBot – AI Farmer Advisory MVP
 Multimodal advisory system using text, voice, and image input to provide intelligent farming guidance.
 
