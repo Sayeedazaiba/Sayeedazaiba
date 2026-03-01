@@ -1,42 +1,31 @@
 # 👋 Hi, I'm Sayeeda Zaiba  
-💡 Aspiring Software Developer | Passionate about Python, C++, HTML, AI/ML, Web Development, and Software Solutions  
+💡 Aspiring Software Developer | AI/ML Enthusiast | Web Developer, and Software Solutions  
 
 ---
 
 ## 🔧 Tech Stack
-- Programming: Python, C++  
-- Web Development: HTML, CSS, JavaScript basics  
-- AI/ML: Python-based ML projects, basic models  
+- Languages: Python, HTML, CSS  
+- AI and LLMs: Gemini API (Itinerary Generator, Chatbot, Route Planner), NLP (Basics) 
+- Databases & Backend Services: Supabase (PostgreSQL)– CRUD & schema basics  
 - Embedded Systems: STM32 collaboration projects (sensors, OLED, buzzer)  
-- Tools: Git/GitHub, VS Code, MATLAB basics
+- Tools: Git/GitHub, VS code 
 
 ---
 
-## 📂 Featured Projects
-🚗 Smart Parking System  
-Contributed to software logic for vehicle detection and parking management.  
+## 📂 Projects
 
-🚀 Smart Wellness Desk Assistant  
-Developed software algorithms for wellness tracking, temperature monitoring, and alerts.
+SafeTrip – AI-Powered Travel Companion
+AI-based trip planner with recommendations, real-time navigation, and personalized alerts.
 
+Smart Face Attendance System
+Face recognition-based attendance system using Python, OpenCV, and database integration.
+
+AgriBot – AI Based Farmer Query Support and Advisory System
+Multimodal advisory system using text, voice, and image input to provide intelligent farming guidance.
 ---
 
-## 🌟 Workshop Experience  
-Participated in **3-Day Workshop on Designing Embedded AI Systems**  
-In collaboration with STMicroelectronics & BITM Bellary  
-Focused on **software development and AI/ML integration**  
-
----
-
-🌱 Currently Learning
-- Advanced AI/ML techniques  
-- Full-stack Web Development  
-- Software development best practices
-
----
 
 ### 📫 Connect with me  
 - 💼[LinkedIn](https://www.linkedin.com/in/sayeeda-zaiba-96a250313)
-- 📧 Email:
-- 🌐 Portfolio: coming soon...
+- 📧 Email: sayeedazaiba99@gmail.com
 
