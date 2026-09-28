@@ -11,7 +11,7 @@
 
 
 <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC1E3?style=for-the-badge&logo=gmail&logoColor=6B5B95" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/sayeeda-zaiba-96a250313/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="https://linkedin.com/in/sayeeda-zaiba-96a250313/"><img src="https://img.shields.io/badge/LinkedIn-E0C3FC?style=for-the-badge&logo=linkedin&logoColor=6B5B95" alt="LinkedIn"/></a>
 <a href="https://github.com/Sayeedazaiba"><img src="https://img.shields.io/badge/GitHub-E0C3FC?style=for-the-badge&logo=github&logoColor=6B5B95" alt="GitHub"/></a>
 
 </div>
