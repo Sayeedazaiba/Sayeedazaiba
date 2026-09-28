@@ -9,9 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sayeedazaiba&label=Profile%20Views&color=E0C3FC&style=for-the-badge&labelColor=FFC1E3)
-![Followers](https://img.shields.io/github/followers/Sayeedazaiba?style=for-the-badge&color=B5EAD7&labelColor=E0C3FC&logo=github&logoColor=6B5B95)
-![Stars](https://img.shields.io/github/stars/Sayeedazaiba?style=for-the-badge&color=FFDAC1&labelColor=E0C3FC&logo=github&logoColor=6B5B95)
 
 <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC1E3?style=for-the-badge&logo=gmail&logoColor=6B5B95" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/sayeeda-zaiba"><img src="https://img.shields.io/badge/LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=6B5B95" alt="LinkedIn"/></a>
