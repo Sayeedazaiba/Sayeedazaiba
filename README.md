@@ -272,7 +272,7 @@ timeline
 
 <img src="https://streak-stats.demolab.com?user=Sayeedazaiba&hide_border=true&background=FDF6FF&ring=B39DDB&fire=F48FB1&currStreakNum=6B5B95&sideNums=6B5B95&currStreakLabel=B39DDB&sideLabels=B39DDB&dates=9E9E9E&border_radius=16" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayeedazaiba&bg_color=FDF6FF&color=B39DDB&line=F48FB1&point=6B5B95&area=true&area_color=E0C3FC&hide_border=true&radius=16" alt="activity graph" width="95%"/>
+
 
 </div>
 
