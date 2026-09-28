@@ -1,10 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Sayeeda Zaiba - AI & Full-Stack Developer" />
-
-<p align="center">
-  <a href="https://sayeeda-zaiba-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=googlechrome&logoColor=7C9CFF" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/sayeeda-zaiba-96a250313/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=7C9CFF" alt="LinkedIn"/></a>
-  <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=7C9CFF" alt="Email"/></a>
-</p>
+<h1 align="center">Sayeeda Zaiba</h1> <p align="center"><b>AI & Full-Stack Developer</b></p> <p align="center">I build AI systems and full-stack products that solve real-world problems.</p> <p align="center"> <a href="https://sayeeda-zaiba-portfolio.onrender.com">Portfolio</a> · <a href="https://linkedin.com/in/sayeeda-zaiba-96a250313/">LinkedIn</a> · <a href="mailto:sayeedazaiba99@gmail.com">Email</a> </p> <p align="center"> First Runner-Up, Presidency University Hackathon · Generative AI Intern, NASSCOM · B.E. ECE, CGPA 9.44 </p>
 
 ## About
 
