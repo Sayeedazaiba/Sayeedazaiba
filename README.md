@@ -249,7 +249,6 @@ flowchart LR
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'cScale0':'#FFC1E3','cScale1':'#E0C3FC','cScale2':'#B5EAD7','cScaleLabel0':'#4A3F6B','cScaleLabel1':'#4A3F6B','cScaleLabel2':'#4A3F6B','fontFamily':'Fira Code'}}}%%
 timeline
-    title My Journey So Far 🌸
     2021 – 2023 : Pre-University (Science) : 86.3 percent at Nandi PU College
     Sep 2023 : Started B.E. in ECE : BITM Ballari
     Sep 2024 : Python Intern at EZTS : Built TaskForge
@@ -258,7 +257,7 @@ timeline
     Jun 2027 : Graduating : B.E. ECE
 ```
 
-| 🌷 Role | 🏢 Company | 📅 When | ✨ What I did |
+|  Role | 🏢 Company | 📅 When | ✨ What I did |
 |:--|:--|:--|:--|
 | **Generative AI Intern** | SmartBridge, NASSCOM Virtual Internship | Jul – Sep 2025 | Completed **15+ Google Cloud labs** and built **10+ GenAI workflows** with Gemini & Vertex AI for prompt engineering, content generation and model evaluation |
 | **Python Intern** | EZTS Trainings and Technologies Pvt. Ltd | Sep 2024 | Built **TaskForge**, a desktop task manager with **4+ features** (scheduling, deadline tracking, local storage) using a modular OOP architecture |
