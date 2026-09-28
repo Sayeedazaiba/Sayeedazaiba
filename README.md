@@ -21,7 +21,7 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ##  About Me
 
-```python
+
 class SayeedaZaiba:
     def __init__(self):
         self.role      = "B.E. Electronics & Communication Engineering (2023 – 2027)"
@@ -105,7 +105,6 @@ flowchart LR
     classDef mint fill:#B5EAD7,stroke:#81C7A9,color:#4A3F6B
     class U,D pink
     class R,G mint
-```
 
 <div align="center">
 
