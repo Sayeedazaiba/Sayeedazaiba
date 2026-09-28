@@ -18,21 +18,28 @@
 
 <br/>
 
+### 2. Delete that entire part.
+
+### 3. Paste this exact code in its place:
+
+```markdown
 <!-- ═══════════════ ABOUT ═══════════════ -->
-##  About Me
+## About Me
 
+<div align="center">
 
-class SayeedaZaiba:
-    def __init__(self):
-        self.role      = "B.E. Electronics & Communication Engineering (2023 – 2027)"
-        self.college   = "Ballari Institute of Technology and Management"
-        self.cgpa      = 9.44
-        self.focus     = ["Embedded Systems", "Generative AI", "Multi-Agent Systems", "Full-Stack Web"]
-        self.location  = "Karnataka, India 🇮🇳"
-        self.now       = "Building AI agents & smart embedded devices"
-        self.learning  = ["Salesforce Agentforce", "Advanced LangChain", "STM32 peripherals"]
-        self.fun_fact  = "I write code for both the cloud ☁️ and the circuit board 🔌"
-```
+**B.E. Electronics & Communication Engineering (2023 – 2027)**  
+**Ballari Institute of Technology and Management** · **CGPA: 9.49**
+
+🌸 **Generative AI** · **Multi-Agent Systems** · **Full-Stack Development** · **Embedded Systems**
+
+📍 Karnataka, India 🇮🇳
+
+</div>
+
+> I’m interested in building practical solutions at the intersection of **AI, software, and embedded technology** — from intelligent applications and multi-agent systems to connected devices. I enjoy turning ideas into working products that solve real-world problems.
+
+<br/>
 
 >  I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
 
