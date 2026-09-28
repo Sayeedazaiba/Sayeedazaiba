@@ -4,7 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFC1E3,50:E0C3FC,100:B5EAD7&text=Sayeeda%20Zaiba&fontColor=6B5B95&fontSize=52&fontAlignY=36&desc=Turning%20Ideas%20Into%20Working%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=AI+%2B+Software+Developer+in+the+making+%F0%9F%8C%B8;ECE+student+%C3%97+Python+Developer+%E2%9C%A8;Turning+ideas+into+working+solutions%F0%9F%A7%A0;Python+%7C+Multi+Agent+Systems+%7C+FastAPI+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=AI+%2B+Software+Developer+in+the+making;ECE+student+%C3%97+Python+Developer;Turning+ideas+into+working+solutions;Python+%7C+Multi+Agent+Systems+%7C+FastAPI" alt="Typing SVG" />
+</a>>
 </a>
 
 <br/>
