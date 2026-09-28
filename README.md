@@ -299,9 +299,7 @@ timeline
 - 🌟 **Top 20 teams**, Smart India Hackathon (Internal College Round), for **AgriBot**
 - 💫 **Shortlisted** for the 6-day **"She Innovates"** bootcamp at BITM Ballari
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sayeedazaiba&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="trophies"/>
-</div>
+
 
 <br/>
 
@@ -322,18 +320,18 @@ timeline
 <br/>
 
 <!-- ═══════════════ SOFT SKILLS ═══════════════ -->
-## 🫶 Beyond Code
+##  Beyond Code
 
 `Effective Communication` · `Active Listening` · `Team Collaboration` · `Problem Solving` · `Adaptability` · `Agile Project Management` · `Computer Networks`
 
 <br/>
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
-## 💌 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
-**Open to internships, collaborations & hackathon teams in Embedded + AI ✨**
+Currently seeking full-time opportunities in AI and Software Development.
 
 <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FFC1E3?style=for-the-badge&logo=gmail&logoColor=6B5B95"/></a>
 <a href="https://linkedin.com/in/sayeeda-zaiba"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=6B5B95"/></a>
