@@ -29,9 +29,9 @@
 **B.E. Electronics & Communication Engineering (2023 – 2027)**  
 **Ballari Institute of Technology and Management** · **CGPA: 9.49**
 
-🌸 **Generative AI** · **Multi-Agent Systems** · **Full-Stack Development** · **Embedded Systems**
+ **Multi-Agent Systems** · **Full-Stack Development** · **Embedded Systems**
 
-📍 Karnataka, India 🇮🇳
+📍 Karnataka, India
 
 </div>
 
