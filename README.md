@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=AI+%2B+Software+Developer+in+the+making;ECE+student+%C3%97+Python+Developer;Turning+ideas+into+working+solutions;Python+%7C+Multi+Agent+Systems+%7C+FastAPI" alt="Typing SVG" />
-</a>>
+</a>
 </a>
 
 <br/>
@@ -20,7 +20,9 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-## 🌷 About Me
+##  About Me
+
+## About Me
 
 ```python
 class SayeedaZaiba:
@@ -29,18 +31,17 @@ class SayeedaZaiba:
         self.college   = "Ballari Institute of Technology and Management"
         self.cgpa      = 9.44
         self.focus     = ["Embedded Systems", "Generative AI", "Multi-Agent Systems", "Full-Stack Web"]
-        self.location  = "Karnataka, India 🇮🇳"
+        self.location  = "Karnataka, India"
         self.now       = "Building AI agents & smart embedded devices"
         self.learning  = ["Salesforce Agentforce", "Advanced LangChain", "STM32 peripherals"]
-        self.fun_fact  = "I write code for both the cloud ☁️ and the circuit board 🔌"
-```
+        self.fun_fact  = "I write code for both the cloud and the circuit board"
 
-> 💜 I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
+>  I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
 
 <br/>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🧁 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
