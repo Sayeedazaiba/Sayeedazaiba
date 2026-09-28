@@ -1,15 +1,17 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFC1E3,50:E0C3FC,100:B5EAD7&text=Sayeeda%20Zaiba&fontColor=6B5B95&fontSize=52&fontAlignY=36&desc=Turning%20Ideas%20Into%20Working%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFC1E3,50:E0C3FC,100:B5EAD7&text=Sayeeda%20Zaiba&fontColor=6B5B95&fontSize=52&fontAlignY=36&desc=Where%20Silicon%20meets%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=AI+%2B+Software+Developer+in+the+making;ECE+student+%C3%97+Python+Developer;Turning+ideas+into+working+solutions;Python+%7C+Multi+Agent+Systems+%7C+FastAPI" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=Embedded+%2B+AI+Engineer+in+the+making+%F0%9F%8C%B8;ECE+student+%C3%97+GenAI+builder+%E2%9C%A8;Teaching+microcontrollers+to+think+%F0%9F%A7%A0;Multi-agent+systems+%7C+STM32+%7C+FastAPI+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sayeedazaiba&label=Profile%20Views&color=E0C3FC&style=for-the-badge&labelColor=FFC1E3)
+![Followers](https://img.shields.io/github/followers/Sayeedazaiba?style=for-the-badge&color=B5EAD7&labelColor=E0C3FC&logo=github&logoColor=6B5B95)
+![Stars](https://img.shields.io/github/stars/Sayeedazaiba?style=for-the-badge&color=FFDAC1&labelColor=E0C3FC&logo=github&logoColor=6B5B95)
 
 <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC1E3?style=for-the-badge&logo=gmail&logoColor=6B5B95" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/sayeeda-zaiba"><img src="https://img.shields.io/badge/LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=6B5B95" alt="LinkedIn"/></a>
@@ -20,9 +22,7 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-##  About Me
-
-## About Me
+## 🌷 About Me
 
 ```python
 class SayeedaZaiba:
@@ -31,17 +31,18 @@ class SayeedaZaiba:
         self.college   = "Ballari Institute of Technology and Management"
         self.cgpa      = 9.44
         self.focus     = ["Embedded Systems", "Generative AI", "Multi-Agent Systems", "Full-Stack Web"]
-        self.location  = "Karnataka, India"
+        self.location  = "Karnataka, India 🇮🇳"
         self.now       = "Building AI agents & smart embedded devices"
         self.learning  = ["Salesforce Agentforce", "Advanced LangChain", "STM32 peripherals"]
-        self.fun_fact  = "I write code for both the cloud and the circuit board"
+        self.fun_fact  = "I write code for both the cloud ☁️ and the circuit board 🔌"
+```
 
->  I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
+> 💜 I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
 
 <br/>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-##  Tech Stack
+## 🧁 Tech Stack
 
 <div align="center">
 
@@ -85,22 +86,24 @@ class SayeedaZaiba:
 ![Groq](https://img.shields.io/badge/Groq_API-FFC1E3?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-FFDAC1?style=flat-square&logo=langchain&logoColor=6B5B95)
 
-A multi-agent orchestration platform that coordinates **6 specialised AI agents** to generate structured business reports across **4+ domains**, delivering end-to-end analysis and downloadable reports straight from user input.
+A multi-agent orchestration platform that coordinates **6 specialised AI agents** to generate structured business reports across **4+ domains**. Give it a startup brief (industry, budget, audience, goals, stack) and watch the agents work live in a "War Room" dashboard with a thought stream, execution graph, telemetry and revenue forecast, then download the finished reports.
+
+**Meet the agents:** 🎯 **ATLAS** (CEO) · 🛠️ **VECTOR** (CTO) · 🔮 **ORACLE** (Market Research) · 💰 **LEDGER** (Finance) · 📣 **ECHO** (Marketing) · 🧩 **PRISM** (Product Manager)
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#E0C3FC','primaryTextColor':'#4A3F6B','primaryBorderColor':'#B39DDB','lineColor':'#F48FB1','secondaryColor':'#FFC1E3','tertiaryColor':'#B5EAD7','fontFamily':'Fira Code'}}}%%
 flowchart LR
-    U(["👩‍💻 User Input"]) --> API["⚡ FastAPI Backend"]
+    U(["👩‍💻 Startup Brief"]) --> API["⚡ FastAPI Backend"]
     API --> O{{"🧠 LangChain Orchestrator"}}
-    O --> A1["🤖 Agent 1"]
-    O --> A2["🤖 Agent 2"]
-    O --> A3["🤖 Agent 3"]
-    O --> A4["🤖 Agent 4"]
-    O --> A5["🤖 Agent 5"]
-    O --> A6["🤖 Agent 6"]
+    O --> A1["🎯 ATLAS · CEO"]
+    O --> A2["🛠️ VECTOR · CTO"]
+    O --> A3["🔮 ORACLE · Research"]
+    O --> A4["💰 LEDGER · Finance"]
+    O --> A5["📣 ECHO · Marketing"]
+    O --> A6["🧩 PRISM · Product"]
     A1 & A2 & A3 & A4 & A5 & A6 --> G["🔗 Groq LLM API"]
-    G --> R["📊 Structured Report Builder"]
-    R --> D(["📥 Downloadable Report"])
+    G --> R["📊 Report Builder"]
+    R --> D(["📥 Business Plan · Market Analysis · Financial Model<br/>Tech Architecture · Pitch Deck · MVP Roadmap"])
     classDef pink fill:#FFC1E3,stroke:#F48FB1,color:#4A3F6B
     classDef mint fill:#B5EAD7,stroke:#81C7A9,color:#4A3F6B
     class U,D pink
@@ -108,9 +111,12 @@ flowchart LR
 ```
 
 <div align="center">
-<img src="https://placehold.co/720x380/F3E8FF/6B5B95?text=FoundryOS+Screenshot+%F0%9F%8C%B8&font=montserrat" alt="FoundryOS screenshot" width="70%"/>
-<br/>
-<a href="https://github.com/Sayeedazaiba/FoundryOS"><img src="https://img.shields.io/badge/View_Repo-E0C3FC?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
+
+### 🎬 Live Demo
+
+FOUNDRYOS_VIDEO_LINK_HERE
+
+<a href="[https://github.com/Sayeedazaiba/FoundryOS](https://github.com/user-attachments/assets/2923aa30-5201-46cb-95e9-c4f85dff3f94)"><img src="https://img.shields.io/badge/View_Repo-E0C3FC?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
 </div>
 
 <br/>
@@ -123,7 +129,7 @@ flowchart LR
 ![Gemini](https://img.shields.io/badge/Gemini_API-FFC1E3?style=flat-square&logo=googlegemini&logoColor=6B5B95)
 ![Supabase](https://img.shields.io/badge/Supabase-FFDAC1?style=flat-square&logo=supabase&logoColor=6B5B95)
 
-A deployed **full-stack travel safety platform** with **6+ integrated features**, secure **Supabase authentication** and database management.
+A deployed **full-stack travel safety platform** with **6+ integrated features**, including hotel booking, an eco-aware route planner (distance, travel time, fuel use, CO₂ emissions and a sustainability score) and a Gemini-powered AI travel assistant, all behind secure **Supabase authentication** and database management.
 🏆 **First Runner-Up, Presidency University Hackathon.**
 
 ```mermaid
@@ -131,11 +137,16 @@ A deployed **full-stack travel safety platform** with **6+ integrated features**
 flowchart LR
     T(["🧳 Traveller"]) --> UI["⚛️ React + Tailwind UI"]
     UI --> AU["🔐 Supabase Auth"]
-    AU --> APP["🧩 6+ Safety Features"]
-    APP --> AI["✨ Gemini API"]
-    AI --> APP
-    APP <--> DB[("🗄️ Supabase Database")]
-    APP --> OUT(["🛡️ Safety Insights & Guidance"])
+    AU --> DASH["🏠 Dashboard"]
+    DASH --> F1["🏨 Hotel Booking"]
+    DASH --> F2["🗺️ Route Planner<br/>Distance · ETA · Fuel · CO₂"]
+    DASH --> F3["💬 AI Chat Assistant"]
+    DASH --> F4["➕ More safety features"]
+    F2 --> AI["✨ Gemini API"]
+    F3 --> AI
+    F1 <--> DB[("🗄️ Supabase Database")]
+    F4 <--> DB
+    AI --> OUT(["🛡️ Safe, Smart Travel Guidance"])
     classDef pink fill:#FFC1E3,stroke:#F48FB1,color:#4A3F6B
     classDef mint fill:#B5EAD7,stroke:#81C7A9,color:#4A3F6B
     class T,OUT pink
@@ -143,10 +154,14 @@ flowchart LR
 ```
 
 <div align="center">
-<img src="https://placehold.co/720x380/FFE4F1/6B5B95?text=SafeTrip+Screenshot+%F0%9F%A7%AD&font=montserrat" alt="SafeTrip screenshot" width="70%"/>
-<br/>
-<a href="https://github.com/Sayeedazaiba/SafeTrip"><img src="https://img.shields.io/badge/View_Repo-FFC1E3?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
-<a href="https://your-safetrip-live-link.com"><img src="https://img.shields.io/badge/Live_Demo-B5EAD7?style=for-the-badge&logo=vercel&logoColor=6B5B95"/></a>
+
+### 🎬 Live Demo
+
+SAFETRIP_VIDEO_LINK_HERE
+
+<a href="[https://github.com/Sayeedazaiba/SafeTrip](https://github.com/user-attachments/assets/49f81601-7135-49c8-9127-1f2281fd112b)"><img src="https://img.shields.io/badge/View_Repo-FFC1E3?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
+<!-- Add your live site button here when you have the URL:
+<a href="YOUR_LIVE_SITE_URL"><img src="https://img.shields.io/badge/Live_Site-B5EAD7?style=for-the-badge&logo=vercel&logoColor=6B5B95"/></a> -->
 </div>
 
 <br/>
@@ -178,8 +193,14 @@ flowchart LR
 ```
 
 <div align="center">
-<img src="https://placehold.co/720x380/E8F8F0/6B5B95?text=AgriBot+Screenshot+%F0%9F%8C%BE&font=montserrat" alt="AgriBot screenshot" width="70%"/>
+
+### 🎬 Live Demo
+
+<a href="https://youtu.be/esj17ZA8Ep0">
+  <img src="https://img.youtube.com/vi/esj17ZA8Ep0/hqdefault.jpg" alt="Watch the AgriBot demo on YouTube" width="60%"/>
+</a>
 <br/>
+<a href="https://youtu.be/esj17ZA8Ep0"><img src="https://img.shields.io/badge/▶_Watch_Demo-FF8FAB?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/Sayeedazaiba/AgriBot"><img src="https://img.shields.io/badge/View_Repo-B5EAD7?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
 </div>
 
@@ -310,14 +331,14 @@ timeline
 
 <div align="center">
 
-**Open to full-time opportunities in AI, Python & Software Development.**
+**Open to internships, collaborations & hackathon teams in Embedded + AI ✨**
 
 <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FFC1E3?style=for-the-badge&logo=gmail&logoColor=6B5B95"/></a>
 <a href="https://linkedin.com/in/sayeeda-zaiba"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=6B5B95"/></a>
 
 <br/><br/>
 
-
+*"Code is poetry, circuits are the ink."* 🌸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:B5EAD7,50:E0C3FC,100:FFC1E3&section=footer" width="100%" alt="footer"/>
 
