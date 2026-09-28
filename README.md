@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFC1E3,50:E0C3FC,100:B5EAD7&text=Sayeeda%20Zaiba&fontColor=6B5B95&fontSize=52&fontAlignY=36&desc=Where%20Silicon%20meets%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFC1E3,50:E0C3FC,100:B5EAD7&text=Sayeeda%20Zaiba&fontColor=6B5B95&fontSize=52&fontAlignY=36&desc=Turning%20Ideas%20Into%20Working%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=Embedded+%2B+AI+Engineer+in+the+making+%F0%9F%8C%B8;ECE+student+%C3%97+GenAI+builder+%E2%9C%A8;Teaching+microcontrollers+to+think+%F0%9F%A7%A0;Multi-agent+systems+%7C+STM32+%7C+FastAPI+%F0%9F%92%9C" alt="Typing SVG" />
@@ -9,9 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sayeedazaiba&label=Profile%20Views&color=E0C3FC&style=for-the-badge&labelColor=FFC1E3)
-![Followers](https://img.shields.io/github/followers/Sayeedazaiba?style=for-the-badge&color=B5EAD7&labelColor=E0C3FC&logo=github&logoColor=6B5B95)
-![Stars](https://img.shields.io/github/stars/Sayeedazaiba?style=for-the-badge&color=FFDAC1&labelColor=E0C3FC&logo=github&logoColor=6B5B95)
 
 <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC1E3?style=for-the-badge&logo=gmail&logoColor=6B5B95" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/sayeeda-zaiba"><img src="https://img.shields.io/badge/LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=6B5B95" alt="LinkedIn"/></a>
