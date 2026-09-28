@@ -18,11 +18,9 @@
 
 <br/>
 
-### 2. Delete that entire part.
 
-### 3. Paste this exact code in its place:
 
-```markdown
+
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## About Me
 
