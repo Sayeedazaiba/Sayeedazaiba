@@ -27,7 +27,7 @@
 <div align="center">
 
 **B.E. Electronics & Communication Engineering (2023 – 2027)**  
-**Ballari Institute of Technology and Management** · **CGPA: 9.49**
+**Ballari Institute of Technology and Management** · **CGPA: 9.44**
 
  **Multi-Agent Systems** · **Full-Stack Development** · **Embedded Systems**
 
