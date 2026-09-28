@@ -332,11 +332,11 @@ timeline
 Currently seeking full-time opportunities in AI and Software Development.
 
 <a href="mailto:sayeedazaiba99@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FFC1E3?style=for-the-badge&logo=gmail&logoColor=6B5B95"/></a>
-<a href="https://linkedin.com/in/sayeeda-zaiba"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=6B5B95"/></a>
+<a href="[https://linkedin.com/in/sayeeda-zaiba](https://linkedin.com/in/sayeeda-zaiba-96a250313/)"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=6B5B95"/></a>
 
 <br/><br/>
 
-*"Code is poetry, circuits are the ink."* 🌸
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:B5EAD7,50:E0C3FC,100:FFC1E3&section=footer" width="100%" alt="footer"/>
 
