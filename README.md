@@ -94,6 +94,8 @@ A multi-agent orchestration platform that coordinates **6 specialised AI agents*
 **Meet the agents:** 🎯 **ATLAS** (CEO) · 🛠️ **VECTOR** (CTO) · 🔮 **ORACLE** (Market Research) · 💰 **LEDGER** (Finance) · 📣 **ECHO** (Marketing) · 🧩 **PRISM** (Product Manager)
 
 
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#E0C3FC','primaryTextColor':'#4A3F6B','primaryBorderColor':'#B39DDB','lineColor':'#F48FB1','secondaryColor':'#FFC1E3','tertiaryColor':'#B5EAD7','fontFamily':'Fira Code'}}}%%
 flowchart LR
     U(["👩‍💻 Startup Brief"]) --> API["⚡ FastAPI Backend"]
     API --> O{{"🧠 LangChain Orchestrator"}}
@@ -110,6 +112,7 @@ flowchart LR
     classDef mint fill:#B5EAD7,stroke:#81C7A9,color:#4A3F6B
     class U,D pink
     class R,G mint
+```
 <div align="center">
 
 ### 🎬 Live Demo
