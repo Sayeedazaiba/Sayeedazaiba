@@ -133,24 +133,23 @@ A deployed **full-stack travel safety platform** with **6+ integrated features**
 🏆 **First Runner-Up, Presidency University Hackathon.**
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#C7CEEA','primaryTextColor':'#4A3F6B','primaryBorderColor':'#9FA8DA','lineColor':'#F48FB1','fontFamily':'Fira Code'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#E0C3FC','primaryTextColor':'#4A3F6B','primaryBorderColor':'#B39DDB','lineColor':'#F48FB1','secondaryColor':'#FFC1E3','tertiaryColor':'#B5EAD7','fontFamily':'Fira Code'}}}%%
 flowchart LR
-    T(["🧳 Traveller"]) --> UI["⚛️ React + Tailwind UI"]
-    UI --> AU["🔐 Supabase Auth"]
-    AU --> DASH["🏠 Dashboard"]
-    DASH --> F1["🏨 Hotel Booking"]
-    DASH --> F2["🗺️ Route Planner<br/>Distance · ETA · Fuel · CO₂"]
-    DASH --> F3["💬 AI Chat Assistant"]
-    DASH --> F4["➕ More safety features"]
-    F2 --> AI["✨ Gemini API"]
-    F3 --> AI
-    F1 <--> DB[("🗄️ Supabase Database")]
-    F4 <--> DB
-    AI --> OUT(["🛡️ Safe, Smart Travel Guidance"])
+    U(["👩‍💻 Startup Brief"]) --> API["⚡ FastAPI Backend"]
+    API --> O{{"🧠 LangChain Orchestrator"}}
+    O --> A1["🎯 ATLAS · CEO"]
+    O --> A2["🛠️ VECTOR · CTO"]
+    O --> A3["🔮 ORACLE · Research"]
+    O --> A4["💰 LEDGER · Finance"]
+    O --> A5["📣 ECHO · Marketing"]
+    O --> A6["🧩 PRISM · Product"]
+    A1 & A2 & A3 & A4 & A5 & A6 --> G["🔗 Groq LLM API"]
+    G --> R["📊 Report Builder"]
+    R --> D(["📥 Business Plan · Market Analysis · Financial Model<br/>Tech Architecture · Pitch Deck · MVP Roadmap"])
     classDef pink fill:#FFC1E3,stroke:#F48FB1,color:#4A3F6B
     classDef mint fill:#B5EAD7,stroke:#81C7A9,color:#4A3F6B
-    class T,OUT pink
-    class DB,AU mint
+    class U,D pink
+    class R,G mint
 ```
 
 <div align="center">
