@@ -272,9 +272,7 @@ timeline
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sayeedazaiba&show_icons=true&hide_border=true&bg_color=FDF6FF&title_color=B39DDB&text_color=6B5B95&icon_color=F48FB1&ring_color=B39DDB&border_radius=16&include_all_commits=true" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeedazaiba&layout=compact&hide_border=true&bg_color=FDF6FF&title_color=B39DDB&text_color=6B5B95&border_radius=16" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com?user=Sayeedazaiba&hide_border=true&background=FDF6FF&ring=B39DDB&fire=F48FB1&currStreakNum=6B5B95&sideNums=6B5B95&currStreakLabel=B39DDB&sideLabels=B39DDB&dates=9E9E9E&border_radius=16" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayeedazaiba&bg_color=FDF6FF&color=B39DDB&line=F48FB1&point=6B5B95&area=true&area_color=E0C3FC&hide_border=true&radius=16" alt="activity graph" width="95%"/>
 
 </div>
 
