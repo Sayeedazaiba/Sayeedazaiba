@@ -94,7 +94,7 @@ A multi-agent orchestration platform that coordinates **6 specialised AI agents*
 **Meet the agents:** 🎯 **ATLAS** (CEO) · 🛠️ **VECTOR** (CTO) · 🔮 **ORACLE** (Market Research) · 💰 **LEDGER** (Finance) · 📣 **ECHO** (Marketing) · 🧩 **PRISM** (Product Manager)
 
 
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#E0C3FC','primaryTextColor':'#4A3F6B','primaryBorderColor':'#B39DDB','lineColor':'#F48FB1','secondaryColor':'#FFC1E3','tertiaryColor':'#B5EAD7','fontFamily':'Fira Code'}}}%%
+{init: {'theme':'base','themeVariables':{'primaryColor':'#E0C3FC','primaryTextColor':'#4A3F6B','primaryBorderColor':'#B39DDB','lineColor':'#F48FB1','secondaryColor':'#FFC1E3','tertiaryColor':'#B5EAD7','fontFamily':'Fira Code'}}}%%
 flowchart LR
     U(["👩‍💻 Startup Brief"]) --> API["⚡ FastAPI Backend"]
     API --> O{{"🧠 LangChain Orchestrator"}}
