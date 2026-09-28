@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFC1E3,50:E0C3FC,100:B5EAD7&text=Sayeeda%20Zaiba&fontColor=6B5B95&fontSize=52&fontAlignY=36&desc=Building%20Practical%20Solutions%20With%20Technology&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=Embedded+%2B+AI+Engineer+in+the+making+%F0%9F%8C%B8;ECE+student+%C3%97+GenAI+builder+%E2%9C%A8;Teaching+microcontrollers+to+think+%F0%9F%A7%A0;Multi-agent+systems+%7C+STM32+%7C+FastAPI+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=760&height=50&lines=AI+%2B+Software+Developer;ECE+student+%C3%97+Python+Developer;Building+practical+solutions+with+code;AI+Systems+%7C+Python+%7C+FastAPI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-## 🌷 About Me
+##  About Me
 
 ```python
 class SayeedaZaiba:
@@ -34,12 +34,12 @@ class SayeedaZaiba:
         self.fun_fact  = "I write code for both the cloud ☁️ and the circuit board 🔌"
 ```
 
-> 💜 I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
+>  I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
 
 <br/>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🧁 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -111,7 +111,7 @@ flowchart LR
 
 ### 🎬 Live Demo
 
-FOUNDRYOS_VIDEO_LINK_HERE
+[FOUNDRYOS_VIDEO_LINK_HERE](https://github.com/user-attachments/assets/2923aa30-5201-46cb-95e9-c4f85dff3f94)
 
 <a href="[https://github.com/Sayeedazaiba/FoundryOS](https://github.com/user-attachments/assets/2923aa30-5201-46cb-95e9-c4f85dff3f94)"><img src="https://img.shields.io/badge/View_Repo-E0C3FC?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
 </div>
@@ -154,7 +154,7 @@ flowchart LR
 
 ### 🎬 Live Demo
 
-SAFETRIP_VIDEO_LINK_HERE
+[SAFETRIP_VIDEO_LINK_HERE](https://github.com/user-attachments/assets/49f81601-7135-49c8-9127-1f2281fd112b)
 
 <a href="[https://github.com/Sayeedazaiba/SafeTrip](https://github.com/user-attachments/assets/49f81601-7135-49c8-9127-1f2281fd112b)"><img src="https://img.shields.io/badge/View_Repo-FFC1E3?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
 <!-- Add your live site button here when you have the URL:
