@@ -39,7 +39,8 @@
 
 <br/>
 
->  I live at the intersection of **hardware and AI**: from reading sensor data on an STM32 to orchestrating LLM agents in the cloud, I love making machines that actually *understand* the world.
+>  I’m curious about how technology can simplify complex problems, and I enjoy learning by building, experimenting, and turning new ideas into working software.
+
 
 <br/>
 
