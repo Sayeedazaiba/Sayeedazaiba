@@ -1,44 +1,87 @@
-<!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sayeeda%20Zaiba&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sayeeda%20Zaiba&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=62" width="100%" alt="Sayeeda Zaiba banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=I+build+intelligent+solutions+for+real-world+problems;Multi-agent+AI+systems+%7C+GenAI+%7C+Full-Stack;ECE+student+%C3%97+Software+builder;Hackathon+Runner-Up+%F0%9F%8F%86" alt="Typing SVG" />
-</a>
+### I build intelligent systems that solve real-world problems, from idea to deployed product.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Multi-agent+AI+%C2%B7+Generative+AI+%C2%B7+Full-Stack;Hackathon+Runner-Up+%7C+NASSCOM+GenAI+Intern;Open+to+AI+%26+Software+Engineering+roles" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sayeeda--zaiba-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayeeda-zaiba-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayeeda-zaiba-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayeeda-zaiba-96a250313/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayeedazaiba99@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sayeedazaiba&label=Profile%20Views&color=8B5CF6&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayeedazaiba99@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ⚡ At a Glance
 
-```python
-class Sayeeda:
-    def __init__(self):
-        self.role      = "AI & Full-Stack Developer"
-        self.education = "B.E. ECE @ BITM Ballari (CGPA 9.44) | 2027"
-        self.focus     = ["Multi-Agent AI", "Generative AI", "Backend APIs", "Full-Stack Apps"]
-        self.also_into = ["Embedded Systems", "IoT", "STM32", "Raspberry Pi"]
-        self.currently = "Learning Salesforce Agentforce & building agentic AI workflows"
-        self.looking_for = "AI / Software Engineering roles & internships"
+<div align="center">
 
-    def motto(self):
-        return "BUILD · LEARN · CREATE"
-```
+| 🏆 | 🚀 | 🤖 | ☁️ | 🎓 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Hackathon**<br>First Runner-Up | **4** <br>Projects shipped | **10+**<br>GenAI workflows built | **15+**<br>Google Cloud labs | **9.44**<br>CGPA (B.E. ECE) |
 
-- 🔭 Building AI-powered systems that turn ideas into working products
-- ⚡ Hardware meets software: an ECE student who also ships web and AI apps
-- 🏆 First Runner-Up at Presidency University Hackathon
-- 🌱 Currently exploring **agentic AI**, **LangChain** and **Salesforce Agentforce**
+</div>
+
+Final-year Electronics & Communication Engineering student at **Ballari Institute of Technology and Management (2027)**. I work across the whole stack: AI agents and APIs on the backend, React on the frontend, and sensors and embedded hardware underneath.
+
+---
+
+## 🚀 Real Solutions I've Built
+
+### 🧠 FoundryOS: Multi-Agent AI Orchestration System
+
+| | |
+|:--|:--|
+| **Problem** | Producing structured business analysis is slow and manual. |
+| **Solution** | A platform where **6 specialised AI agents** coordinate to turn a user's input into a complete, structured report. |
+| **Impact** | Covers **4+ business domains** with end-to-end analysis and **downloadable reports** from a single input. |
+| **Built with** | Python · FastAPI · LangChain · Groq API |
+| **Code** | [github.com/Sayeedazaiba/FoundryOS](https://github.com/Sayeedazaiba/FoundryOS) |
+
+### 🛡️ SafeTrip: AI-Powered Smart Travel & Safety Platform
+
+| | |
+|:--|:--|
+| **Problem** | Travellers need safety support that's reliable and in one place. |
+| **Solution** | A deployed full-stack platform with **6+ integrated features**, secure **Supabase authentication** and managed database access. |
+| **Impact** | 🥈 **First Runner-Up, Presidency University Hackathon**, recognised for a unique real-world solution and strong implementation. |
+| **Built with** | React · Tailwind CSS · Gemini API · Supabase |
+| **Code** | [github.com/Sayeedazaiba/SafeTrip](https://github.com/Sayeedazaiba/SafeTrip) |
+
+### 🌾 AgriBot: Multimodal Farmer Query Support
+
+| | |
+|:--|:--|
+| **Problem** | Farmers need answers in whatever form is easiest for them, not just typed text. |
+| **Solution** | An accessible web app accepting **text, voice and image** queries. |
+| **Impact** | ⭐ Selected among the **Top 20 teams** in the Smart India Hackathon internal college round. |
+| **Built with** | Flask · OpenCV · JavaScript |
+| **Code** | [github.com/Sayeedazaiba/agribot](https://github.com/Sayeedazaiba/agribot) |
+
+### 🪑 Smart Wellness Desk Assistant: Embedded Health Monitor
+
+| | |
+|:--|:--|
+| **Problem** | Long hours at a desk go unnoticed until they hurt. |
+| **Solution** | An embedded system that integrates **3 sensors** for real-time workspace monitoring and **break reminders**. |
+| **Impact** | Live status shown on an OLED display, a working hardware and software product. |
+| **Built with** | STM32 · Embedded C · Sensors |
+| **Code** | [github.com/Sayeedazaiba/Smart-Wellness-Desk-Assistant](https://github.com/Sayeedazaiba/Smart-Wellness-Desk-Assistant) |
+
+---
+
+## 💼 Experience
+
+**🤖 Generative AI Intern**, SmartBridge · NASSCOM Virtual Internship *(Jul – Sep 2025)*
+- Built **10+ Generative AI workflows** using Gemini and Vertex AI for prompt engineering, content generation and model evaluation
+- Completed **15+ hands-on Google Cloud labs**
+
+**🐍 Python Intern**, EZTS Trainings and Technologies Pvt. Ltd *(Sep 2024)*
+- Built **TaskForge**, a desktop task manager with **4+ features** for scheduling, deadline tracking and local storage, using a modular object-oriented architecture
 
 ---
 
@@ -46,150 +89,48 @@ class Sayeeda:
 
 <div align="center">
 
-**Languages**
-
-![Python](https://skillicons.dev/icons?i=py,js,html,css,c&theme=dark)
-
-**Frameworks & Libraries**
-
-![Frameworks](https://skillicons.dev/icons?i=flask,fastapi,react,tailwind&theme=dark)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Database, Backend & Tools**
-
-![Tools](https://skillicons.dev/icons?i=mysql,supabase,git,github,linux&theme=dark)
-
-**AI & Cloud**
-
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Quest-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-**Embedded & IoT**
-
-![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Tech stack](https://skillicons.dev/icons?i=py,js,html,css,c,flask,fastapi,react,tailwind,opencv,mysql,supabase,git,github,linux,gcp,aws,arduino,raspberrypi&theme=dark&perline=10)
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 [FoundryOS](https://github.com/Sayeedazaiba/FoundryOS)
-**Multi-Agent AI Orchestration System**
-
-Orchestrates **6 specialised AI agents** to generate structured business reports across **4+ domains**, with downloadable output from simple user inputs.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🛡️ [SafeTrip](https://github.com/Sayeedazaiba/SafeTrip)
-**AI-Powered Smart Travel & Safety Platform**
-
-Deployed full-stack platform with **6+ integrated features**, secure Supabase authentication and database management. 🏆 *Hackathon Runner-Up.*
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌾 [AgriBot](https://github.com/Sayeedazaiba/agribot)
-**Multimodal Farmer Query Support System**
-
-Accessible Flask web app that accepts **text, voice and image** inputs for farmer queries. ⭐ *Top 20 at Smart India Hackathon (internal round).*
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🪑 [Smart Wellness Desk Assistant](https://github.com/Sayeedazaiba/Smart-Wellness-Desk-Assistant)
-**Embedded Workspace Health Monitor**
-
-Integrates **3 sensors** for real-time workspace monitoring and break reminders, with live status shown on an OLED display.
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-IoT-orange?style=flat-square)
-
-    </td>
-  </tr>
-</table>
+| | |
+|:--|:--|
+| **AI & GenAI** | Multi-agent orchestration · LangChain · Gemini API · Vertex AI · Groq API · Prompt engineering |
+| **Backend** | Python · FastAPI · Flask · Supabase · MySQL |
+| **Frontend** | React · Tailwind CSS · JavaScript · HTML · CSS |
+| **Embedded & IoT** | STM32 · Embedded C · Arduino Uno · Raspberry Pi · Sensor integration |
+| **Tools** | Git · GitHub · Render · Linux · OpenCV · Matplotlib |
+| **Ways of working** | Agile project management · Computer networks fundamentals |
 
 ---
 
-## 💼 Experience
+## 🏅 Recognition & Certifications
 
-| Role | Where | When | Highlights |
-|:--|:--|:--|:--|
-| 🤖 **Generative AI Intern** | SmartBridge, NASSCOM Virtual Internship | Jul – Sep 2025 | 15+ Google Cloud labs, 10+ GenAI workflows with Gemini and Vertex AI (prompt engineering, content generation, model evaluation) |
-| 🐍 **Python Intern** | EZTS Trainings and Technologies | Sep 2024 | Built **TaskForge**, a desktop task manager with scheduling, deadline tracking and local storage using a modular OOP design |
-
----
-
-## 🏅 Achievements
-
-- 🥈 **First Runner-Up**, Presidency University Hackathon (for SafeTrip)
-- 🎯 **Top 20 teams**, Smart India Hackathon internal college round (for AgriBot)
-- 🌟 **Shortlisted** for the 6-day *"She Innovates"* bootcamp at BITM
+- 🥈 **First Runner-Up**, Presidency University Hackathon (SafeTrip)
+- 🎯 **Top 20 teams**, Smart India Hackathon internal round (AgriBot)
+- 🌟 **Shortlisted**, 6-day *"She Innovates"* bootcamp at BITM
+- ☁️ AWS Cloud Quest: Cloud Practitioner
+- 🐍 Wipro TalentNext: Python with Data Science (4/4 milestones)
+- 📋 HP LIFE: Agile Project Management
+- 🗄️ HackerRank: SQL (Basic)
+- 🤖 IBM SkillsBuild: AI Literacy Badge
+- ⚙️ Salesforce Agentforce Specialist: *in progress*
 
 ---
 
-## 📜 Certifications
+## 🌱 Currently
 
-![AWS](https://img.shields.io/badge/AWS-Cloud_Quest:_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Wipro](https://img.shields.io/badge/Wipro_TalentNext-Python_with_Data_Science-341C53?style=flat-square)
-![HP LIFE](https://img.shields.io/badge/HP_LIFE-Agile_Project_Management-0096D6?style=flat-square&logo=hp&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-SQL_(Basic)-00EA64?style=flat-square&logo=hackerrank&logoColor=black)
-![IBM](https://img.shields.io/badge/IBM_SkillsBuild-AI_Literacy-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce_Agentforce-In_Progress-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+Exploring **agentic AI workflows** and completing the **Salesforce Agentforce Specialist** training, while looking for AI and software engineering opportunities where I can build things that matter.
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sayeedazaiba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeedazaiba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA" alt="Top languages" />
+### Have a problem worth solving? Let's build the solution.
 
-<img src="https://streak-stats.demolab.com?user=Sayeedazaiba&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayeeda-zaiba-portfolio.onrender.com)
+[![Email](https://img.shields.io/badge/sayeedazaiba99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayeedazaiba99@gmail.com)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayeedazaiba&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff" alt="Activity graph" width="100%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Have a problem worth solving? Let's build the solution.**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_my_Portfolio-8B5CF6?style=for-the-badge)](https://sayeeda-zaiba-portfolio.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayeeda-zaiba-96a250313/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayeedazaiba99@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
