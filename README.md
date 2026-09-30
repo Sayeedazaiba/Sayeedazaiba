@@ -162,10 +162,10 @@ flowchart LR
 
 [SAFETRIP_VIDEO_LINK_HERE](https://github.com/user-attachments/assets/49f81601-7135-49c8-9127-1f2281fd112b)
 
-<a href="[https://github.com/Sayeedazaiba/SafeTrip](https://github.com/user-attachments/assets/49f81601-7135-49c8-9127-1f2281fd112b)"><img src="https://img.shields.io/badge/View_Repo-FFC1E3?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
-<!-- Add your live site button here when you have the URL:
-<a href="YOUR_LIVE_SITE_URL"><img src="https://img.shields.io/badge/Live_Site-B5EAD7?style=for-the-badge&logo=vercel&logoColor=6B5B95"/></a> -->
+<a href="https://github.com/Sayeedazaiba/SafeTrip"><img src="https://img.shields.io/badge/View_Repo-FFC1E3?style=for-the-badge&logo=github&logoColor=6B5B95"/></a> <a href="https://safetrip-g0tr.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-B5EAD7?style=for-the-badge&logo=render&logoColor=6B5B95"/></a>
+
 </div>
+
 
 <br/>
 
