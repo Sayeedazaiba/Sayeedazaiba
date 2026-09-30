@@ -119,8 +119,10 @@ flowchart LR
 
 [FOUNDRYOS_VIDEO_LINK_HERE](https://github.com/user-attachments/assets/2923aa30-5201-46cb-95e9-c4f85dff3f94)
 
-<a href="[https://github.com/Sayeedazaiba/FoundryOS](https://github.com/user-attachments/assets/2923aa30-5201-46cb-95e9-c4f85dff3f94)"><img src="https://img.shields.io/badge/View_Repo-E0C3FC?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
+<a href="https://github.com/Sayeedazaiba/FoundryOS"><img src="https://img.shields.io/badge/View_Repo-E0C3FC?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
+
 </div>
+
 
 <br/>
 
