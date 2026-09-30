@@ -238,8 +238,6 @@ flowchart LR
 ```
 
 <div align="center">
-<img src="https://placehold.co/720x380/FFF3E6/6B5B95?text=Wellness+Desk+Prototype+%F0%9F%AA%B4&font=montserrat" alt="Smart Wellness Desk photo" width="70%"/>
-<br/>
 <a href="https://github.com/Sayeedazaiba/Smart-Wellness-Desk-Assistant"><img src="https://img.shields.io/badge/View_Repo-FFDAC1?style=for-the-badge&logo=github&logoColor=6B5B95"/></a>
 </div>
 
