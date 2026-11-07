@@ -306,12 +306,12 @@ timeline
 
 <div align="center">
 
+![Salesforce](https://img.shields.io/badge/Salesforce-Certified_Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Wipro](https://img.shields.io/badge/Wipro_TalentNext-Certified_Python_with_Data_Science-E0C3FC?style=for-the-badge&labelColor=FFC1E3)
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Quest-Cloud_Practitioner-FFDAC1?style=for-the-badge&logo=amazonwebservices&logoColor=6B5B95&labelColor=E0C3FC)
-![Wipro](https://img.shields.io/badge/Wipro_TalentNext-Python_with_Data_Science-E0C3FC?style=for-the-badge&labelColor=FFC1E3)
 ![HP LIFE](https://img.shields.io/badge/HP_LIFE-Agile_Project_Management-B5EAD7?style=for-the-badge&logo=hp&logoColor=6B5B95&labelColor=E0C3FC)
 ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-C7CEEA?style=for-the-badge&logo=hackerrank&logoColor=6B5B95&labelColor=FFC1E3)
 ![IBM](https://img.shields.io/badge/IBM_SkillsBuild-AI_Literacy_Badge-FFC1E3?style=for-the-badge&logo=ibm&logoColor=6B5B95&labelColor=E0C3FC)
-![Salesforce](https://img.shields.io/badge/Salesforce_Agentforce_Specialist-In_Progress_⏳-FFDAC1?style=for-the-badge&logo=salesforce&logoColor=6B5B95&labelColor=B5EAD7)
 
 </div>
 
